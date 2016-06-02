@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">SimpleWebBrowser</string>
+    <string name="app_name">가자가자!</string>
+    <string name="but_move_str">2동</string>
+    <string name="but_prev_str">2전</string>
+
 </resources>
